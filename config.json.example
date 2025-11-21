@@ -1,0 +1,24 @@
+{
+  "_comment": "Este es un archivo de ejemplo. Copia este archivo a config.json y completa con tus datos reales.",
+  "cert_path": "C:/ruta/a/tu/certificado.pfx",
+  "cert_password": "TU_CONTRASEÑA_AQUI",
+  "entornos": {
+    "SII": {
+      "_comment_pruebas": "URL del servicio SII en entorno de pruebas - CONSULTAR DOCUMENTACIÓN AEAT",
+      "pruebas": "https://www7.aeat.es/wlpl/SSII-FACT/ws/fe/SiiFactFEV1SOAP",
+      "_comment_produccion": "URL del servicio SII en producción - CONSULTAR DOCUMENTACIÓN AEAT",
+      "produccion": "https://www2.aeat.es/wlpl/SSII-FACT/ws/fe/SiiFactFEV1SOAP"
+    },
+    "VERIFACTU": {
+      "_comment_pruebas": "URL del servicio VeriFactu en entorno de pruebas - CONSULTAR DOCUMENTACIÓN AEAT",
+      "pruebas": "https://www7.aeat.es/wlpl/VERIFACTU/ws/VeriFactuSOAP",
+      "_comment_produccion": "URL del servicio VeriFactu en producción - CONSULTAR DOCUMENTACIÓN AEAT",
+      "produccion": "https://www2.aeat.es/wlpl/VERIFACTU/ws/VeriFactuSOAP"
+    }
+  },
+  "timeouts": {
+    "connect": 10,
+    "read": 60
+  }
+}
+
