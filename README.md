@@ -34,7 +34,7 @@ CLI profesional en Python 3.11 que envía XML ya generados a los servicios SOAP 
 
 ## Capturas de uso (placeholders)
 
-![CLI DEMO](https://github.com/Mauro-Remeseiro/AEAT-Sender/blob/c3e25ef648b4b315e9160c339b35d21849488113/docs/media/img/cli_help_version.jpg)
+![CLI DEMO](https://github.com/Mauro-Remeseiro/AEAT-Sender/blob/7394e88afec0084b305e632d1c32b91036018456/docs/media/img/cli_help_version.jpg)
 
 ## Requisitos
 
